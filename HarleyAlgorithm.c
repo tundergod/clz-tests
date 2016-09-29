@@ -23,7 +23,7 @@ uint8_t clz(uint32_t x)
 
 int main()
 {
-        int a = clz(1);
-        printf("ans = %d\n",a);
-        return 0;
+    int a = clz(1);
+    printf("ans = %d\n",a);
+    return 0;
 }
